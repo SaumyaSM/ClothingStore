@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+#page-header{
+  background-image: url(IMG/Gray\ Minimalist\ Fashion\ Big\ Sale\ Banner.png);
+  height: 80vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  padding: 14px;
+}
+#page-header h1{
+  color: #fff; 
+}
+#page-header{
+  margin-bottom: 20px;
+}
+.card{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+#product1{
+  text-align: center;
+}
+#product1 .pro-container{
+  display: flex;
+  justify-content:space-evenly;
+  padding-top: 20px;
+  flex-wrap: wrap;
+}
